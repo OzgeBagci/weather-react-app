@@ -23,7 +23,7 @@ root.render(
         </a>
         and hosted on{" "}
         <a
-          href="https://app.netlify.com/teams/ozgebagci/overview"
+          href="https://reactproject-weatherapp.netlify.app/"
           target="_blank"
           rel="noreferrer"
         >
